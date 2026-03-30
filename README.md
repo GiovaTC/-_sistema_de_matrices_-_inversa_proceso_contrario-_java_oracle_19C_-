@@ -3,6 +3,8 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f8160d7-197b-45c4-a144-cbe8896dc092" />  
 
+<img width="2551" height="1074" alt="image" src="https://github.com/user-attachments/assets/10eb85f1-6628-4fb8-980d-a123dca2ad00" />    
+
 ```
 
 📌 Concepto Clave:
